@@ -9,11 +9,15 @@
 
 <h1></h1>
 
+
+<div style="border-radius: 15px; overflow: hidden; display: inline-block;">
 <picture border="cycle" data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
+</div>
+
 
 <hr>
 
