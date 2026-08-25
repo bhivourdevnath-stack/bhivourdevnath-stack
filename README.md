@@ -9,7 +9,7 @@
 
 <h1></h1>
 
-<picture data-importer="pacman">
+<picture border="cycle" data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/galaga-contribution-graph.svg?game=galaga">
