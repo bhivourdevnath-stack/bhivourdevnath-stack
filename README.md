@@ -39,7 +39,7 @@
 
 
 ###
-<h1 data-importer="text" align="left">Coding Languges</h1>
+<h2 data-importer="text" align="left">Coding Languges</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Coding Tool</h1>
+<h2 data-importer="text" align="left">Coding Tool</h2>
 
 ###
 
