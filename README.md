@@ -20,11 +20,11 @@
 
 
 
-<hr>
+<br>
 
 
 
-<h2 data-importer="text" align="left">I Code With</h2>
+
 
 ###
 <h1 data-importer="text" align="left">Coding Languges</h1>
