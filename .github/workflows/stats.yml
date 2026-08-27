@@ -10,6 +10,10 @@ on:
     branches:
     - main
 
+concurrency:
+  group: stats-generation
+  cancel-in-progress: true
+
 jobs:
   generate:
     permissions:
