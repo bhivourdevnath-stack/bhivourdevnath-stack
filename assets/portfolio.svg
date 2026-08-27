@@ -39,11 +39,11 @@
     </g>
     <text class="body" x="0" y="150">I'm a beginner developer learning to code,</text>
     <text class="body" x="0" y="180">focused on Python, backend, and web development.</text>
-    <text class="body" x="0" y="220">Currently learning, building projects, breaking things,</text>
-    <text class="body" x="0" y="250">and figuring out how to fix them. Exploring new </text>
-    <text class="body" x="0" y="280">technologies,improving my skills, and turning random  </text>
-    <text class="body" x="0" y="310">ideas into working projects.</text>
-    <text class="body muted" x="0" y="360">Still learning. Still building.</text>
-    <text class="body muted" x="0" y="390">And turning bugs into features.</text>
+    <text class="body" x="0" y="225">Currently learning, building projects, breaking things,</text>
+    <text class="body" x="0" y="255">and figuring out how to fix them. Exploring new </text>
+    <text class="body" x="0" y="285">technologies,improving my skills, and turning random  </text>
+    <text class="body" x="0" y="315">ideas into working projects.</text>
+    <text class="body muted" x="0" y="365">Still learning. Still building.</text>
+    <text class="body muted" x="0" y="395">And turning bugs into features.</text>
   </g>
 </svg>
