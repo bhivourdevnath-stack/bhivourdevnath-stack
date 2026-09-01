@@ -1,58 +1,67 @@
 import urllib.request
 from pathlib import Path
+from html import escape
 
-GIST_URL = "https://gist.githubusercontent.com/bhivourdevnath-stack/91c3056618c155283c7c86c1a41cf36c/raw/a997a3018d11fd59fe25e9462fbd450c8b4f4c4b/%25F0%259F%2593%258A%2520Weekly%2520development%2520breakdown"
+GIST_URL = "https://gist.githubusercontent.com/bhivourdevnath-stack/91c3056618c155283c7c86c1a41cf36c/raw/"
 
-data = urllib.request.urlopen(GIST_URL).read().decode("utf-8")
+try:
+    data = urllib.request.urlopen(GIST_URL).read().decode("utf-8")
+except Exception as e:
+    print("Failed to fetch Gist:", e)
+    raise
 
-lines = data.splitlines()
+print("Gist content:")
+print(data)
+
+lines = [line.strip() for line in data.splitlines() if line.strip()]
 
 rows = []
 
 for line in lines:
-    if line.strip():
-        rows.append(line.strip())
-
-svg_lines = []
-
-for i, line in enumerate(rows):
-    y = 70 + i * 28
-
-    # Escape XML characters
-    line = (
-        line.replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
+    rows.append(
+        f"""
+        <text x="30"
+              y="{80 + len(rows) * 28}"
+              font-family="Arial, sans-serif"
+              font-size="16"
+              fill="#ffffff">
+            {escape(line)}
+        </text>
+        """
     )
 
-    svg_lines.append(
-        f'<text x="30" y="{y}" '
-        f'font-family="monospace" font-size="16" '
-        f'fill="white">{line}</text>'
-    )
+height = max(140, 100 + len(lines) * 28)
 
-height = max(120, 90 + len(rows) * 28)
+svg = f"""<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="{height}"
+     viewBox="0 0 900 {height}">
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
-width="900"
-height="{height}"
-viewBox="0 0 900 {height}">
+    <rect width="900"
+          height="{height}"
+          rx="16"
+          fill="#0d1117"/>
 
-<rect width="100%" height="100%" rx="15" fill="#0d1117"/>
+    <text x="30"
+          y="45"
+          font-family="Arial, sans-serif"
+          font-size="22"
+          font-weight="bold"
+          fill="#ffffff">
+        Weekly Development Breakdown
+    </text>
 
-<text x="30" y="40"
-font-family="monospace"
-font-size="20"
-font-weight="bold"
-fill="white">
-📊 Weekly Development Breakdown
-</text>
-
-{"".join(svg_lines)}
+    {''.join(rows)}
 
 </svg>
-'''
+"""
 
-Path("assets/weekly.svg").write_text(svg, encoding="utf-8")
+Path("assets").mkdir(exist_ok=True)
 
-print("weekly.svg generated successfully!")
+Path("assets/weekly.svg").write_text(
+    svg,
+    encoding="utf-8"
+)
+
+print("✅ assets/weekly.svg generated successfully!")
