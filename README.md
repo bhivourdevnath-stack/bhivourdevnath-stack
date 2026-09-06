@@ -7,12 +7,12 @@
 
 
 
-<br>
+<h1></h1><br>
 
 <p align="center"> <img src="./assets/about-me.svg" alt="About me - Bivour Devnath" width="800"> </p>
 
 
-<br>
+<h1></h1><br>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
