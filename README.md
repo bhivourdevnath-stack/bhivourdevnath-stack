@@ -40,7 +40,7 @@
 
 ###
 <div align="center">
-<h2 data-importer="text" align="left">Coding headmap :</h2>
+<h2 data-importer="text" align="left">Activity headmap :</h2>
 <a href="https://heatmap.shymike.dev?id=37490&timezone=Asia%2FDhaka&cell_size=17&labels=true&year=2026&standalone=true" title="Click to view detailed data for each day!">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=37490&timezone=Asia%2FDhaka&cell_size=17&labels=true&year=2026&theme=dark">
