@@ -47,21 +47,21 @@
   <text x="50" y="120"
         fill="#cccccc"
         font-family="monospace, monospace"
-        font-size="17">Python — Web, automation & backend development.</text>
+        font-size="17">Python — Web, automation, and backend development.</text>
 
 
   <text x="50" y="150"
         fill="#cccccc"
         font-family="monospace, monospace"
-        font-size="17">Web & Backend — Websites, APIs & server-side systems.</text>
+        font-size="17">Web & Backend — Websites, APIs and server-side systems.</text>
 
   <text x="50" y="200"
         fill="#aaaaaa"
         font-family="monospace, monospace"
-        font-size="17">API Integration — Connecting services & automating workflows.</text>
+        font-size="17">API Integration — Connecting services and automating workflows.</text>
 
   <text x="50" y="230"
         fill="#aaaaaa"
         font-family="monospace, monospace"
-        font-size="17">Embedded Systems — ESP32, sensors & hardware projects.</text>
+        font-size="17">Embedded Systems — ESP32, sensors and hardware projects.</text>
 </svg>
