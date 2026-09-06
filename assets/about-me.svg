@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="900"
+     height="300"
+     viewBox="0 0 900 300"
+     role="img"
+     aria-label="About me banner">
+
+  <rect width="900" height="300" rx="12" fill="#020202"/>
+
+
+  <defs>
+    <clipPath id="about-me-typewriter-clip" clipPathUnits="userSpaceOnUse">
+      <rect x="50" y="25" width="0" height="38">
+        <animate attributeName="width"
+                 values="0;170;170;0"
+                 keyTimes="0;0.35;0.78;1"
+                 dur="5s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#about-me-typewriter-clip)">
+    <text x="50" y="55"
+          fill="#ffffff"
+          font-family="monospace, monospace"
+          font-size="28">~/about-me</text>
+  </g>
+
+  <!-- cursor -->
+  <rect x="50" y="28" width="2" height="30" fill="#ffffff">
+    <animate attributeName="x"
+             values="50;220;220;50"
+             keyTimes="0;0.35;0.78;1"
+             dur="5s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="1;1;0;1"
+             keyTimes="0;0.35;0.78;1"
+             dur="0.9s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="50" y1="75" x2="860" y2="75" stroke="#444444" stroke-width="1"/>
+
+  <text x="50" y="120"
+        fill="#cccccc"
+        font-family="monospace, monospace"
+        font-size="17">Python — Web, automation & backend development.</text>
+
+
+  <text x="50" y="150"
+        fill="#cccccc"
+        font-family="monospace, monospace"
+        font-size="17">Web & Backend — Websites, APIs & server-side systems.</text>
+
+  <text x="50" y="200"
+        fill="#aaaaaa"
+        font-family="monospace, monospace"
+        font-size="17">API Integration — Connecting services & automating workflows.</text>
+
+  <text x="50" y="230"
+        fill="#aaaaaa"
+        font-family="monospace, monospace"
+        font-size="17">Embedded Systems — ESP32, sensors & hardware projects.</text>
+</svg>
