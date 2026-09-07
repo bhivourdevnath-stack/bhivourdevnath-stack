@@ -44,13 +44,13 @@
 
   <line x1="50" y1="75" x2="860" y2="75" stroke="#444444" stroke-width="1"/>
 
-  <text x="50" y="120"
+  <text x="50" y="140"
         fill="#cccccc"
         font-family="monospace, monospace"
         font-size="17">Python — Web, automation, and backend development.</text>
 
 
-  <text x="50" y="150"
+  <text x="50" y="170"
         fill="#cccccc"
         font-family="monospace, monospace"
         font-size="17">Web and Backend — Websites, APIs and server-side systems.</text>
