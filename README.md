@@ -32,7 +32,7 @@
   <table>
   <tr>
   <th><img src="https://gist.github.com/bhivourdevnath-stack/91c3056618c155283c7c86c1a41cf36c/raw" alt="Weekly activity" /></th>
-  <th><img src="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /></th>
+ <th><img src="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en" alt="Stats" /></th>
   </tr>
   <tr>
   <th colspan="2"><img src="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  /></th>
