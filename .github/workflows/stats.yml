@@ -1,14 +1,12 @@
 name: Generate stats card
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 concurrency:
   group: stats-generation
@@ -22,15 +20,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate stats.svg
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en
-          path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: push stats.svg to the output branch
+      - name: Generate stats.svg
+        run: |
+          mkdir -p dist
+          curl -o dist/stats.svg "https://github-readme-stats.vercel.app/api?username=bhivourdevnath-stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en"
+
+      - name: Push stats.svg to stats-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: stats-output
