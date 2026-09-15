@@ -62,6 +62,6 @@ Path("assets").mkdir(exist_ok=True)
 Path("assets/weekly.svg").write_text(
     svg,
     encoding="utf-8"
-)
+    )
 
 print("✅ assets/weekly.svg generated successfully!")
