@@ -145,6 +145,8 @@
 
 `Full-Stack Development` • `AI Automation` • `Local LLMs` • `IoT` • `Backend Systems`
 
+
+<h1></h1>
 <br>
 
 <h2 data-importer="text" align="left">Stats :</h2>
