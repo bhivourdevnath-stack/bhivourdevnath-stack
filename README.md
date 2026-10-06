@@ -81,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   </a>
   <a href="https://n8n.io/">
-     <img src="https://n8n.io/brandguidelines/logo-white.svg" height="50" alt="n8n" />
+     <img src="https://n8n.io/brandguidelines/logo-white.svg" height="43" alt="n8n" />
   </a>
 </p>
 
