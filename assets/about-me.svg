@@ -64,4 +64,9 @@
         fill="#aaaaaa"
         font-family="monospace, monospace"
         font-size="17">Embedded Systems — ESP32, sensors and hardware projects.</text>
+
+  <text x="50" y="260"
+        fill="#aaaaaa"
+        font-family="monospace, monospace"
+        font-size="17">AI Integration — AI models, APIs, and intelligent automation.</text>
 </svg>
