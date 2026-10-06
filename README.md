@@ -55,7 +55,11 @@
   <a href="https://nodejs.org/">
     <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
   </a>
+  <a href="https://www.figma.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  </a>
 </p>
+
 
 **Also working with:**  
 `REST APIs` • `JSON` • `Jinja2` • `AJAX` • `HTTP`
