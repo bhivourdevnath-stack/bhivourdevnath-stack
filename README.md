@@ -189,4 +189,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
+<hr>
+
+```bash
+
+ "PEROPLE ARE ALL LIMITATION'S OF MONKEY'S... 
+ GODS ARE ALL LIMITATION'S OF PEROPLE"
+
+```
+
 ###
