@@ -191,10 +191,17 @@
 
 <hr>
 
+<p align="center">
+  <img width="347" height="252" alt="image" src="https://github.com/user-attachments/assets/6c3bd62d-5c7b-4edd-b878-99cfa93a6b31" />
+</p>
+
 ```bash
 
- "PEROPLE ARE ALL LIMITATION'S OF MONKEY'S... 
- GODS ARE ALL LIMITATION'S OF PEROPLE"
+          "人は皆、猿のまがいもの
+          神は皆、人のまがいもの"
+
+ "All people are but imitations of monkeys.
+  All gods are but imitations of people."
 
 ```
 
