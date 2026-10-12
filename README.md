@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/portf2.gif" alt="Bivour portfolio" width="800">
+  <img src="./assets/portf2.gif" alt="Bivour portfolio" width="800" style="border-radius: 40px;">
 </p>
 
 
