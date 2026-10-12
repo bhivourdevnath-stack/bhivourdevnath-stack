@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="./assets/portf2.gif" alt="Bivour portfolio" width="800">
+</p>
 
+<br>
 
 <p align="center">
   <img src="./assets/portfolio.svg" alt="Bivour portfolio" width="800">
