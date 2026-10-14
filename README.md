@@ -8,7 +8,9 @@
 
 <h1></h1><br>
 
-<p align="center"> <img src="./assets/about-me.svg" alt="About me - Bivour Devnath" width="800"> </p>
+<p align="center">
+  <img src="./assets/about_new.gif" alt="About me - Bivour Devnath" width="800"> 
+</p>
 
 
 <h1></h1><br>
