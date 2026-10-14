@@ -21,9 +21,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-<hr>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=435&lines=+-+%24~++Tech+Stack+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=40&pause=1000&width=435&lines=%24+Tech+Stack" alt="Typing SVG" /></a>
 
 <hr>
 
