@@ -25,7 +25,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=40&pause=999&color=F7F7F7&vCenter=true&width=435&lines=%24+Tech+Stack" alt="Typing SVG" />
 
-<hr>
+<br>
 
 ###  Languages
 
