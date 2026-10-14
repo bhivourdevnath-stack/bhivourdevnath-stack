@@ -174,6 +174,14 @@
   </table>
 </div>
 
+<hr>
+
+<p align="center">
+  <a href="https://discord.com/users/1534800398706020463">
+  <img src="./assets/Let's collab.gif" alt="Bivour portfolio" width="800" height="418">
+  </a>
+</p>
+
 
 
 
