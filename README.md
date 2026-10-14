@@ -6,7 +6,7 @@
 
 
 
-<h1></h1><br>
+
 
 <p align="center">
   <img src="./assets/about_new.gif" alt="About me - Bivour Devnath" width="810"> 
