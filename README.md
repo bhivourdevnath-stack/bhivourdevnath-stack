@@ -1,3 +1,6 @@
+Bivour Devnath Ankur
+
+
 <p align="center">
   <img src="./assets/portf2.gif" alt="Bivour portfolio" width="800">
 </p>
@@ -175,6 +178,8 @@
 </div>
 
 <hr>
+
+## Collad with and work together , build cool shit
 
 <p align="center">
   <a href="https://discord.com/users/1534800398706020463">
