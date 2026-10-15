@@ -179,19 +179,16 @@ Bivour Devnath Ankur
 
 <hr>
 
-## Collab with me and work together, lets build cool shit
-<table>
-  <tr>
-<th>
+## Collab with me and work together; let's build cool project
+
 <p align="center">
   <a href="https://discord.com/users/1534800398706020463">
   <img src="./assets/collab.gif" alt="C" width="800" height="418">
   </a>
-</p></th>
-  </tr>
+</p>
 
 
-
+<hr>
 
 
 ###
