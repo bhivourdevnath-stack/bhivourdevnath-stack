@@ -23,12 +23,12 @@ Bivour Devnath Ankur
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhivourdevnath-stack/bhivourdevnath-stack/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-Btw, my GitHub contribution graph is FAKE
-I was just trying to print my name on it using AI, but bro started cooking without a recipe and burned the whole kitchen 
-So yeah, don't mistake me for some pro coder just because my graph looks cool 
-I'm still learning, still breaking things, and still blaming AI for my crimes. 
-**But hey, at least my commits have a personality.** 
-
+Btw, my GitHub contribution graph is FAKE<br>
+I was just trying to print my name on it using AI, but bro started cooking without a recipe and burned the whole kitchen <br>
+So yeah, don't mistake me for some pro coder just because my graph looks cool <br>
+I'm still learning, still breaking things, and still blaming AI for my crimes. <br>
+**But hey, at least my commits have a personality.** <br>
+<br>
 tho I'M a larper
 
 <hr>
