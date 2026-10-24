@@ -78,7 +78,7 @@ tho I'M a larper
 
 
 **Also working with:**  
-`REST APIs` • `JSON` • `Jinja2` • `AJAX` • `HTTP`
+`REST APIs` • `JSON` • `Jinja` • `AJAX` • `HTTP`
 
 ###  Databases
 
@@ -120,7 +120,7 @@ tho I'M a larper
 </p>
 
 **Also working with:**  
-`ESP32` • `Arduino IDE` • `Sensors` • `GPIO` • `I²C` • `IoT`
+`ESP32` • `Arduino IDE` • `Sensors` • `GPIO` • `IoT`
 
 ###  Tools
 
