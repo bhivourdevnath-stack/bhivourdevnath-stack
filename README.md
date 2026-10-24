@@ -33,7 +33,6 @@ but bro started cooking without a recipe and burned the whole kitchen
 So yeah, don't mistake me for some pro coder just because my graph looks cool
 
 I'm still learning, still breaking things, and still blaming AI for my crimes. 
-**But hey, at least my commits have a personality.** 
 
 tho I'M a larper
 ```
@@ -79,7 +78,7 @@ tho I'M a larper
 
 
 **Also working with:**  
-`REST APIs` • `JSON` • `Jinja2` • `AJAX` • `HTTP`
+`REST APIs` • `JSON` • `Jinja` • `AJAX` • `HTTP`
 
 ###  Databases
 
@@ -121,7 +120,7 @@ tho I'M a larper
 </p>
 
 **Also working with:**  
-`ESP32` • `Arduino IDE` • `Sensors` • `GPIO` • `I²C` • `IoT`
+`ESP32` • `Arduino IDE` • `Sensors` • `GPIO` • `IoT`
 
 ###  Tools
 
