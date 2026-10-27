@@ -101,7 +101,7 @@ tho I'M a larper
     <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   </a>
   <a href="https://n8n.io/">
-     <img src="https://n8n.io/brandguidelines/logo-white.svg" height="43" alt="n8n" />
+    <img alt="image" src="https://github.com/user-attachments/assets/43dc14aa-02cd-4e6a-a0f6-8bced15253bd"  height="50" alt="n8n"/>
   </a>
 </p>
 
