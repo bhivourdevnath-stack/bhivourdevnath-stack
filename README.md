@@ -167,7 +167,7 @@ tho I'M a larper
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,linux,raspberrypi" height="50" alt="Currently Exploring" />
 </p>
 
-`Full-Stack Development` • `AI Automation` • `Local LLMs` • `IoT` • `Backend Systems`
+`Web Development` • `AI Automation` • `LLMs` • `IoT` • `Backend Systems`
 
 
 <h1></h1>
