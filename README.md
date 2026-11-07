@@ -92,7 +92,7 @@ tho I'M a larper
 
 <br/>
 
-`LLMs` · `AI APIs` · `Local AI` · `AI Automation` · `Chatbots`
+`LLMs` · `AI APIs` . `AI Automation` · `Chatbots`
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ tho I'M a larper
 
 <br/>
 
-`Arduino IDE` · `Sensors` · `GPIO` · `I²C` · `IoT`
+`Arduino IDE` · `Sensors` · `GPIO` · `IoT`
 
 </td>
 <td width="50%" valign="top">
@@ -149,11 +149,13 @@ tho I'M a larper
 
 <br/>
 
-`Full-Stack Development` · `Local LLMs` · `Backend Systems` · `IoT`
+`Full-Stack Development` · `Backend Systems` · `IoT`
 
 </td>
 </tr>
 </table>
+
+
 <h2 data-importer="text" align="left">Stats :</h2>
 
 ###
