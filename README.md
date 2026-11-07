@@ -46,7 +46,7 @@ tho I'M a larper
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Languages
+###  Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
@@ -57,7 +57,7 @@ tho I'M a larper
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Web and Back-End
+###  Web and Back-End
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
@@ -73,7 +73,7 @@ tho I'M a larper
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ Databases & Storage
+###  Databases & Storage
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -85,7 +85,7 @@ tho I'M a larper
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Automation
+###  AI & Automation
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -100,7 +100,7 @@ tho I'M a larper
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 Embedded Systems & IoT
+###  Embedded Systems & IoT
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
@@ -113,7 +113,7 @@ tho I'M a larper
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Tools & Development
+###  Tools & Development
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -127,7 +127,7 @@ tho I'M a larper
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Deployment & Environment
+###  Deployment & Environment
 
 <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
@@ -140,7 +140,7 @@ tho I'M a larper
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Currently Exploring
+###  Currently Exploring
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
